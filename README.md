@@ -1,2 +1,2 @@
 # Portfolio-Website
-[My personal Website ](https://home.iitj.ac.in/~kanani.1)
+[Website link](https://home.iitj.ac.in/~kanani.1)
