@@ -1,2 +1,2 @@
 # Portfolio-Website
-[Website link](https://home.iitj.ac.in/~kanani.1)
+[Website link](https://alishkanani.github.io)
